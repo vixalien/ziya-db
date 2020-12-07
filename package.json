@@ -1,0 +1,29 @@
+{
+  "name": "ziya-db",
+  "version": "1.0.0",
+  "description": "a database for ziya",
+  "main": "index.js",
+  "dependencies": {
+    "pouchdb-server": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vixalien/ziya-db.git"
+  },
+  "keywords": [
+    "ziya",
+    "church",
+    "db",
+    "pouchdb"
+  ],
+  "author": "vixalien",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/vixalien/ziya-db/issues"
+  },
+  "homepage": "https://github.com/vixalien/ziya-db#readme"
+}
