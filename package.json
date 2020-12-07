@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "dev": "pouchdb-server  -p 5984",
+    "dev": "pouchdb-server -p 5984",
     "start": "pouchdb-server -p 5984"
   },
   "repository": {
