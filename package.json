@@ -8,7 +8,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "pouchdb-server -p 5984",
+    "start": "pouchdb-server -p 5984"
   },
   "repository": {
     "type": "git",
